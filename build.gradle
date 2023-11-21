@@ -9,7 +9,7 @@ repositories {
 }
 
 def allureVersion = "2.23.0",
-    selenideVersion = "6.15.0",
+    selenideVersion = "6.17.0",
     junitVersion = "5.8.2",
     aspectjweaverVersion = "1.9.6",
     javafakerVersion = "1.0.2",
